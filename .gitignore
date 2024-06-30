@@ -1,0 +1,11 @@
+**/__pycache__
+**/*.*~
+.pyproject.toml
+_build
+.buildconfig
+testing
+.flatpak-builder
+.ruff_cache/
+.mypy_cache/
+.venv
+venv
