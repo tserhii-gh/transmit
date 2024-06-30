@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
 	<id>com.github.tserhiigh.Transmit.desktop</id>
+	<name>Transmit torrent client</name>
 	<metadata_license>CC0-1.0</metadata_license>
 	<project_license>GPL-3.0-or-later</project_license>
+	<summary>Transmission remote client</summary>
 	<description>
 	  <p>No description</p>
 	</description>
+	<url type="homepage">https://github.com/tserhii-gh/transmit</url>
+	<categories>
+	    <category>Utility</category>
+	</categories>
 </component>

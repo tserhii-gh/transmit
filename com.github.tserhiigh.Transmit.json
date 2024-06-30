@@ -29,8 +29,8 @@
             "buildsystem" : "meson",
             "sources" : [
                 {
-                    "type" : "git",
-                    "url" : "file:///home/tserhii/Projects/python"
+                    "type" : "dir",
+                    "path" : "."
                 }
             ]
         }
