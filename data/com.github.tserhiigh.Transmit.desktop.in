@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=transmit
+Exec=transmit
+Icon=com.github.tserhiigh.Transmit
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
