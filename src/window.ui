@@ -9,6 +9,11 @@
       <object class="AdwToolbarView">
         <child type="top">
           <object class="AdwHeaderBar" id="header_bar">
+            <property name="title-widget">
+              <object class="AdwWindowTitle" id="adw_win_title">
+                <property name="title" translatable="true">Transmit</property>
+              </object>
+            </property>
             <child type="end">
               <object class="GtkMenuButton">
                 <property name="primary">True</property>
