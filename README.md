@@ -1,3 +1,3 @@
 # transmit
 
-A description of this project.
+Modern transmission remote client
